@@ -21,7 +21,7 @@ disableImageOptimization = false
 disableTextInHeader = false
 # backgroundImageWidth = 1200
 
-defaultBackgroundImage = "images/home_bg.gif" # used as default for background images 
+defaultBackgroundImage = "images/bg.jpg" # used as default for background images 
 # defaultFeaturedImage = "IMAGE.jpg" # used as default for featured images in all articles
 
 # highlightCurrentMenuArea = true
@@ -54,63 +54,60 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
 
 [article]
   showDate = true
-  showViews = false
-  showLikes = false
-  showDateOnlyInArticle = false
-  showDateUpdated = false
+#  showViews = true
+#  showLikes = true
+  showDateUpdated = true
   showAuthor = true
-  # showAuthorBottom = false
-  showHero = false
-  # heroStyle = "basic" # valid options: basic, big, background, thumbAndBackground
-  layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
-  layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
-  showBreadcrumbs = false
+  showHero = true
+  heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
+  layoutBackgroundBlur = true # only used when layout equals background
+  showBreadcrumbs = true
   showDraftLabel = true
   showEdit = false
-  # editURL = "https://github.com/username/repo/"
-  editAppendPath = true
-  seriesOpened = false
+  editAppendPath = false
+  seriesOpened = true
   showHeadingAnchors = true
   showPagination = true
   invertPagination = false
   showReadingTime = true
-  showTableOfContents = false
-  # showRelatedContent = false
-  # relatedContentLimit = 3
-  showTaxonomies = false
-  showAuthorsBadges = false
-  showWordCount = true
-  # sharingLinks = [ "linkedin", "twitter", "bluesky", "mastodon", "reddit", "pinterest", "facebook", "email", "whatsapp", "telegram"]
+  showTableOfContents = true
+  showRelatedContent = true
+  relatedContentLimit = 3
+  showTaxonomies = true
+  cardView = true
+  showComments= true
+  showAuthorsBadges = true
+  showWordCount = false
+  sharingLinks = ["bilibili", "twitter", "telegram", "email"]
   showZenMode = false
 
 [list]
-  showHero = false
-  # heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
-  layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
-  layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
+  showHero = true
+  heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
+  layoutBackgroundBlur = true # only used when heroStyle equals background
+  layoutBackgroundHeaderSpace = false
   showBreadcrumbs = false
   showSummary = false
-  showViews = false
-  showLikes = false
-  showTableOfContents = false
+#  showViews = true
+#  showLikes = true
+  showTableOfContents = true
   showCards = false
-  orderByWeight = false
-  groupByYear = true
-  cardView = false
+  groupByYear = false
+  cardView = true  #true:单张格式 false:竖向格式
   cardViewScreenWidth = false
-  constrainItemsWidth = false
+  constrainItemsWidth = true
 
 [sitemap]
-  excludedKinds = ["taxonomy", "term"]
+  excludedKinds = []
 
 [taxonomy]
   showTermCount = true
-  showHero = false
-  # heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
+  showHero = true
+  heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
   showBreadcrumbs = false
-  showViews = false
-  showLikes = false
-  showTableOfContents = false
+#  showViews = true
+#  showLikes = true
+  showTableOfContents = true
   cardView = false
 
 [term]
