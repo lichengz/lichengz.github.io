@@ -17,8 +17,8 @@ title = "Licheng's Celestial Zone"
 [params.author]
   name = "Licheng Zhang"
   email = "whitezhang@live.com"
-#   image = "img/blowfish_logo.png"
-#   imageQuality = 96
+  image = "images/me.png"
+  imageQuality = 96
   headline = "I'm only human"
   bio = "A little bit about you"
   links = [
