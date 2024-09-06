@@ -6,6 +6,7 @@
   unsafe = true
 
 [highlight]
+  style = "monokai"
   noClasses = false
 
 [tableOfContents]

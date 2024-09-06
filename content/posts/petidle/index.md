@@ -28,40 +28,34 @@ Pet Idle is an engaging idle mobile game where players manage and nurture a coll
 3. **Earn Rewards:** Collect rewards and resources, even when you're away from the game.
 4. **Explore Events:** Engage in limited-time events for unique challenges and prizes.
 
-## Screenshots
+## Login
 
-![Pet Idle Screenshot 1](images/petidle/feature.jpg)
+<img src="/gifs/petidle/login.gif" alt="Animated GIF" width="100%">
 
-## Video
 
-Watch the trailer for a sneak peek into the world of Pet Idle!
+## Purchase
 
-<video width="100%" controls>
-  <source src="/videos/game.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<img src="/gifs/petidle/purchase.gif" alt="Animated GIF" width="100%">
 
-## Download
+## Battle
 
-You can download Pet Idle from the following platforms:
+<img src="/gifs/petidle/battle.gif" alt="Animated GIF" width="100%">
 
-- **[Google Play Store](https://play.google.com/store/apps/details?id=com.example.petidle)**
-- **[Apple App Store](https://apps.apple.com/us/app/pet-idle/id1234567890)**
+## Inventory
 
-## Contact
+<img src="/gifs/petidle/inventory.gif" alt="Animated GIF" width="100%">
 
-For support or inquiries, please contact us at:
+## Incubation
 
-- **Email:** support@example.com
-- **Website:** [example.com](https://example.com)
+<img src="/gifs/petidle/hatch.gif" alt="Animated GIF" width="100%">
 
-## Follow Us
+## Filter
 
-Stay updated with the latest news and updates:
+<img src="/gifs/petidle/filter.gif" alt="Animated GIF" width="100%">
 
-- **Twitter:** [@PetIdleGame](https://twitter.com/PetIdleGame)
-- **Facebook:** [Pet Idle Game](https://facebook.com/PetIdleGame)
-- **Instagram:** [@PetIdleGame](https://instagram.com/PetIdleGame)
+## Tutorial
 
-Thank you for checking out Pet Idle! We hope you enjoy the game as much as we enjoyed creating it.
+<img src="/gifs/petidle/tutorial.gif" alt="Animated GIF" width="100%">
+
+Thank you for checking out Pet Idle! We hope you enjoy the game as much as I enjoyed creating it.
 
