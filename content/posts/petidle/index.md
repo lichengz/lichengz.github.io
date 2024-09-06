@@ -2,12 +2,12 @@
 title: "Pet Idle"
 date: 2024-08-01
 draft: false
-description: "An Idle Mobile Game"
+description: "An independently developed idle mobile game"
 ---
 
 # Pet Idle
 
-All hail to my first game! This is so cool.
+It's an independently developed idle mobile game.
 
 ## Overview
 

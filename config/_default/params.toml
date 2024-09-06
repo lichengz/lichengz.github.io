@@ -37,7 +37,7 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
 [footer]
   showMenu = true
   showCopyright = true
-  showThemeAttribution = true
+  showThemeAttribution = false
   showAppearanceSwitcher = true
   showScrollToTop = true
 
@@ -48,14 +48,14 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
   showRecentItems = 5
   showMoreLink = true
   showMoreLinkDest = "/posts/"
-  cardView = false
+  cardView = true
   cardViewScreenWidth = false
   layoutBackgroundBlur = false # only used when layout equals background
 
 [article]
   showDate = true
-#  showViews = true
-#  showLikes = true
+  showViews = true
+  showLikes = true
   showDateUpdated = true
   showAuthor = true
   showHero = true
