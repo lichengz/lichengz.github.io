@@ -3,4 +3,4 @@ description: "Read my content."
 cascade:
   showReadingTime: false
 ---
-This section contains all my current content.
+I know a bit about writing, have some drawing skills, and—how convenient—I can code too! Wow, doesn't that just scream "let's make games!"?
