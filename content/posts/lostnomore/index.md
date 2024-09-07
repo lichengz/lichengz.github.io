@@ -53,6 +53,10 @@ The world is bleak, filled with remnants of a once-great civilization now fallen
 
 <img src="/gifs/lostnomore/teleport.gif" alt="Animated GIF" width="100%">
 
+### Inventory and Weapon Switch
+
+<img src="/gifs/lostnomore/inventory.gif" alt="Animated GIF" width="100%">
+
 
 ### Target Platforms
 - PC (Steam)
